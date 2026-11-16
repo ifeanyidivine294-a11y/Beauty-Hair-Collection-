@@ -1,0 +1,6 @@
+{
+  "name": "Beauty Hair Collection",
+  "description": "Premium Bone Straight Human Hair Wig boutique in Asaba, Delta State, Nigeria. Effortless luxury hair for workdays, church, and special occasions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

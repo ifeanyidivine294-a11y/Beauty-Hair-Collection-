@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-sans: "DM Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+  
+  --color-plum: #241923;
+  --color-ivory: #F8F4F0;
+  --color-gold: #C7A46A;
+  --color-rose: #E9DCD6;
+  --color-dark: #30252B;
+  --color-whatsapp: #1F6B4A;
+  --color-whatsapp-hover: #175339;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: var(--font-sans);
+}
+
+h1, h2, h3, .font-serif-luxury {
+  font-family: var(--font-serif);
+}
+
+/* Glassmorphism utility classes */
+.glass-panel-light {
+  background: rgba(255, 255, 255, 0.65);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(199, 164, 106, 0.22);
+}
+
+.glass-panel-dark {
+  background: rgba(36, 25, 35, 0.82);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(199, 164, 106, 0.28);
+}
+
+.glass-panel-rose {
+  background: rgba(233, 220, 214, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(199, 164, 106, 0.25);
+}

@@ -1,0 +1,778 @@
+﻿GOOGLE AI STUDIO — COMPLETE WEBSITE BUILD PROMPT
+
+
+PROJECT: BEAUTY HAIR COLLECTION
+
+
+Premium Two-Page Wig Sales Funnel
+
+
+Act as a senior frontend developer, luxury UI/UX designer, conversion-rate optimisation specialist and professional website architect.
+
+
+Build a complete, professional, premium, mobile-first two-page sales funnel for Beauty Hair Collection, a premium wig boutique located in Asaba, Delta State, Nigeria.
+
+
+This is a serious commercial project. The result must look like a professionally designed luxury beauty brand website, not a generic AI-generated template.
+
+
+The objective is to turn visitors into WhatsApp customers.
+
+
+---
+
+
+1. BUSINESS INFORMATION
+
+
+Business name: Beauty Hair Collection
+Business type: Premium wig boutique
+Location: Asaba, Delta State, Nigeria
+Main product: Bone Straight Human Hair Wig
+Price: ₦45,000
+Free bonus: One free wig cap
+Order method: WhatsApp
+WhatsApp number: +2349069710687
+
+
+Pre-filled WhatsApp message:
+
+
+Hello, I want to order the Bone Straight Human Hair Wig
+
+
+WhatsApp URL:
+
+
+https://wa.me/2349069710687?text=Hello%2C%20I%20want%20to%20order%20the%20Bone%20Straight%20Human%20Hair%20Wig
+
+
+Target audience:
+Nigerian women aged 20–45 who appreciate beautiful, natural-looking, polished hairstyles for work, church, events and everyday wear.
+
+
+2. STRICT WEBSITE STRUCTURE
+
+
+Build ONLY TWO PAGES:
+
+
+1. Sales page: /
+2. Thank-you page: /thank-you
+
+
+This is a focused sales funnel, not a conventional ecommerce website.
+
+
+STRICT RULES:
+
+
+- No navigation menu.
+- No hamburger menu.
+- No shop page.
+- No product catalogue.
+- No cart.
+- No unnecessary links.
+- No competing calls to action.
+- No social media links.
+- No invented testimonials.
+- No invented customer reviews.
+- No fake ratings.
+- No invented statistics.
+- No unsupported guarantees.
+- No fake countdown timers.
+- No fabricated scarcity.
+
+
+The only important action is ordering through WhatsApp.
+
+
+The WhatsApp ordering button must appear prominently at the top and bottom of the Sales page.
+
+
+The Thank-you page must have one primary WhatsApp action.
+
+
+3. BRAND DESIGN SYSTEM
+
+
+Create a luxury feminine editorial design.
+
+
+COLOUR PALETTE:
+
+
+Deep Espresso Plum: #241923
+Warm Ivory: #F8F4F0
+Champagne Gold: #C7A46A
+Rose Beige: #E9DCD6
+Dark Text: #30252B
+WhatsApp Green: #1F6B4A
+
+
+Use warm ivory as the main page background.
+
+
+Use espresso plum for major headings, dark sections and luxury contrast.
+
+
+Use champagne gold for subtle borders, small decorative details, dividers and highlights.
+
+
+Use rose beige for selected background sections.
+
+
+Use deep green for the WhatsApp buttons.
+
+
+Do not overuse gold. It should feel sophisticated, not flashy.
+
+
+TYPOGRAPHY:
+
+
+Headings: Playfair Display.
+Body: DM Sans.
+Buttons: DM Sans SemiBold.
+Prices: DM Sans Bold.
+
+
+Load the fonts from Google Fonts.
+
+
+4. VISUAL DESIGN AND LAYOUT
+
+
+The overall appearance should be:
+
+
+- Premium.
+- Feminine.
+- Modern.
+- Elegant.
+- Glassy.
+- Minimal.
+- Visually impressive.
+- Conversion-focused.
+
+
+Use glassmorphism tastefully.
+
+
+Create translucent panels with:
+
+
+- Subtle backdrop blur.
+- Fine champagne borders.
+- Soft shadows.
+- Carefully controlled transparency.
+- Rounded corners.
+
+
+Use generous whitespace.
+
+
+Do not overcrowd the page.
+
+
+Use sophisticated editorial layouts and high-quality photography.
+
+
+Desktop:
+
+
+- Spacious two-column hero.
+- Large product photographs.
+- Beautifully aligned content sections.
+- Balanced whitespace.
+
+
+Mobile:
+
+
+- Fully responsive.
+- Single-column layout.
+- Properly scaled headings.
+- Comfortable spacing.
+- Full-width WhatsApp buttons.
+- No horizontal scrolling.
+- No clipped photographs.
+- No text overflowing containers.
+
+
+IMPORTANT IMAGE RULE:
+Never crop the subject's head, face, wig or hair ends accidentally. Preserve the entire hairstyle wherever possible. Use object-fit: contain for product images and appropriate object-position settings for lifestyle photographs. Do not force images into containers that cut off important parts of the hair.
+
+
+5. SALES PAGE SECTIONS AND EXACT COPY
+
+
+SECTION 1 — HERO
+
+
+Create a beautiful luxury hero section.
+
+
+Use:
+wig-hero.png
+
+
+The photograph should feature a glamorous Nigerian woman wearing the bone straight wig.
+
+
+Place the brand name BEAUTY HAIR COLLECTION at the top.
+
+
+Use this headline:
+
+
+"A Polished Look. Without the Extra Effort."
+
+
+Subheading:
+
+
+"Meet the Bone Straight Human Hair Wig — your effortless finishing touch for workdays, Sundays, special occasions and everyday confidence."
+
+
+Display:
+
+
+₦45,000
+
+
+Show a refined label:
+
+
+FREE WIG CAP INCLUDED
+
+
+Primary button:
+
+
+ORDER ON WHATSAPP
+
+
+The button must be prominent and visually attractive.
+
+
+SECTION 2 — THE BUYER'S PROBLEM
+
+
+Heading:
+
+
+"Your hair should complement your beauty, not complicate your day."
+
+
+Body:
+
+
+"You want a neat, polished appearance, but finding a wig that gives you the look you want can be frustrating."
+
+
+Display four elegantly designed content points:
+
+
+1. Hair that tangles and becomes difficult to manage.
+2. Excessive shedding that makes you uncomfortable.
+3. Wigs that look unnatural or poorly styled.
+4. Hair that loses its beautiful appearance too quickly.
+
+
+Closing copy:
+
+
+"You deserve to make your hair part of your confidence, not another daily worry."
+
+
+Do not claim that our particular wig has been tested against or eliminates these problems.
+
+
+SECTION 3 — THE PRODUCT SOLUTION
+
+
+Use:
+wig-product.png
+
+
+Heading:
+
+
+"Meet Your New Everyday Favourite."
+
+
+Description:
+
+
+"The Bone Straight Human Hair Wig brings a sleek, straight-haired aesthetic to your personal style."
+
+
+Create six premium glass-style benefit cards:
+
+
+1. SLEEK BONE-STRAIGHT APPEARANCE
+   "A clean, polished look that complements different outfits."
+
+
+2. VERSATILE STYLING
+   "Suitable for work, church, outings and special occasions."
+
+
+3. BEAUTIFUL FINISH
+   "An elegant straight-hair aesthetic for a put-together appearance."
+
+
+4. EASY-TO-COORDINATE LOOK
+   "Pairs beautifully with casual and formal fashion."
+
+
+5. A TIMELESS STYLE
+   "Straight hair remains a classic choice for different occasions."
+
+
+6. A THOUGHTFUL EXTRA
+   "Your purchase comes with a free wig cap."
+
+
+SECTION 4 — HAIR TEXTURE
+
+
+Use:
+wig-texture.png
+
+
+Heading:
+
+
+"See the Beauty in Every Strand."
+
+
+Supporting copy:
+
+
+"Take a closer look at the sleek, straight appearance of this beautiful hair."
+
+
+Display the texture photograph prominently.
+
+
+Do not make unsupported claims about hair density, lifespan, shedding resistance or quality specifications.
+
+
+SECTION 5 — STYLING EXPERIENCE
+
+
+Use:
+wig-styling.png
+
+
+Heading:
+
+
+"Beautiful Style for Your Everyday Moments."
+
+
+Copy:
+
+
+"From getting ready for work to preparing for church or a special occasion, enjoy a hairstyle that brings a polished finish to your look."
+
+
+Use an elegant editorial layout.
+
+
+SECTION 6 — WHAT IS INCLUDED
+
+
+Use:
+wig-package.png
+
+
+Heading:
+
+
+"Everything Included in Your Purchase."
+
+
+Display:
+
+
+- 1 Bone Straight Human Hair Wig.
+- 1 Free Wig Cap.
+
+
+Show the total price:
+
+
+₦45,000
+
+
+Make the free wig cap visually noticeable without making the section look crowded.
+
+
+SECTION 7 — WHO IT IS FOR
+
+
+Heading:
+
+
+"Made for Women Who Love a Polished Appearance."
+
+
+Display four elegant points:
+
+
+- For workdays and professional settings.
+- For church and Sunday outings.
+- For parties and special events.
+- For everyday style and confidence.
+
+
+Use:
+wig-lifestyle.png
+
+
+Place the lifestyle image alongside or below the content, ensuring the complete hairstyle remains visible.
+
+
+SECTION 8 — PRICE AND OFFER
+
+
+Use a beautiful dark espresso-plum background.
+
+
+Heading:
+
+
+"Your New Look Starts at ₦45,000."
+
+
+Display the price in large typography:
+
+
+₦45,000
+
+
+Supporting copy:
+
+
+"And your wig cap comes free with your purchase."
+
+
+Additional copy:
+
+
+"No complicated checkout. No lengthy ordering process.
+
+
+Simply tap the WhatsApp button and tell us you want to order."
+
+
+Display the button:
+
+
+ORDER MY WIG ON WHATSAPP
+
+
+Do not invent an offer expiry date. Only advertise the free wig cap as included unless the owner confirms a limited-time promotion.
+
+
+SECTION 9 — FREQUENTLY ASKED QUESTIONS
+
+
+Create an elegant accordion interface.
+
+
+QUESTION 1:
+
+
+"Do you deliver?"
+
+
+Answer:
+
+
+"We can assist you with your order through WhatsApp. Please contact us to confirm delivery availability, charges and estimated delivery time."
+
+
+This information requires confirmation from the business owner.
+
+
+QUESTION 2:
+
+
+"How do I care for my wig?"
+
+
+Answer:
+
+
+"Handle your wig gently, detangle carefully, avoid unnecessary heat and store it properly when not in use. Follow the care instructions supplied by the seller for the specific hair."
+
+
+QUESTION 3:
+
+
+"How do I order?"
+
+
+Answer:
+
+
+"Simply tap the ORDER ON WHATSAPP button. A message will already be prepared for you. Send it to us, and we will assist you with the next steps."
+
+
+SECTION 10 — FINAL CALL TO ACTION
+
+
+Create an impressive final section.
+
+
+Heading:
+
+
+"Beautiful Hair. Beautiful Presence. Your Choice."
+
+
+Copy:
+
+
+"Give your style a sleek, polished finish with the Bone Straight Human Hair Wig."
+
+
+Display:
+
+
+₦45,000 — Free Wig Cap Included.
+
+
+Button:
+
+
+GET YOUR WIG ON WHATSAPP
+
+
+Use a premium product photograph and a beautiful dark-plum and ivory composition.
+
+
+6. WHATSAPP FUNCTIONALITY
+
+
+Every ordering button must use this exact WhatsApp destination:
+
+
+https://wa.me/2349069710687?text=Hello%2C%20I%20want%20to%20order%20the%20Bone%20Straight%20Human%20Hair%20Wig
+
+
+The WhatsApp number is +2349069710687.
+
+
+When clicked:
+
+
+1. Open WhatsApp with the message already typed.
+2. Do not automatically send the message.
+3. Let the customer send the message themselves.
+4. Do not replace the prepared message with another message.
+
+
+7. THANK-YOU PAGE
+
+
+Create a separate, beautifully designed page at:
+
+
+/thank-you
+
+
+The design must match the Sales page.
+
+
+Use espresso plum, warm ivory, champagne gold and subtle glassmorphism.
+
+
+Heading:
+
+
+"Thank You for Choosing Beauty Hair Collection!"
+
+
+Supporting copy:
+
+
+"Your WhatsApp ordering conversation has been opened."
+
+
+Display a refined product photograph using:
+
+
+wig-product.png
+
+
+Subheading:
+
+
+"What happens next?"
+
+
+Show three simple steps:
+
+
+1. Send the prepared WhatsApp message.
+2. Our team will respond to discuss your order.
+3. Confirm the product, delivery arrangements and payment details with the seller.
+
+
+Add:
+
+
+"Need assistance?"
+
+
+"You can contact Beauty Hair Collection directly on WhatsApp."
+
+
+Primary button:
+
+
+CONTINUE TO WHATSAPP
+
+
+Use the same WhatsApp link and pre-filled message.
+
+
+Add a small footer:
+
+
+"Beauty Hair Collection | Asaba, Delta State, Nigeria."
+
+
+IMPORTANT NAVIGATION BEHAVIOUR:
+
+
+When a visitor clicks an ordering button on the Sales page:
+
+
+- Open the WhatsApp URL in a new tab or the appropriate mobile WhatsApp application.
+- Navigate the current website tab to /thank-you.
+- Do not claim the order is completed or paid.
+- Explain that the customer must send the WhatsApp message to proceed.
+- If the browser blocks opening a new tab, preserve the WhatsApp link as a working fallback and do not leave the customer with a broken navigation.
+- Do not claim that WhatsApp has received a message merely because the button was clicked.
+
+
+The Thank-you page must also work if opened directly.
+
+
+8. ANIMATIONS AND INTERACTIONS
+
+
+Add sophisticated, lightweight animations:
+
+
+- Smooth fade-in on page load.
+- Gentle upward reveal when sections enter the viewport.
+- Subtle image reveal transitions.
+- Very subtle floating decorative elements.
+- Smooth hover effects on buttons.
+- Soft glass-panel hover transitions.
+- Smooth accordion opening and closing.
+- Smooth scrolling.
+
+
+Avoid:
+
+
+- Excessive movement.
+- Flashing effects.
+- Aggressive bouncing.
+- Heavy animations that slow mobile devices.
+
+
+Respect reduced-motion accessibility preferences.
+
+
+9. TECHNICAL REQUIREMENTS
+
+
+Build a complete functioning website, not just a visual mockup.
+
+
+Requirements:
+
+
+- Responsive frontend.
+- Two functioning routes.
+- Working WhatsApp links.
+- Functional FAQ accordion.
+- Correct image placement.
+- Optimised image loading.
+- Semantic HTML.
+- Accessible button labels.
+- Good colour contrast.
+- Fast loading.
+- No broken links.
+- No horizontal overflow.
+- Proper mobile responsiveness.
+
+
+Use React and modern CSS if appropriate.
+
+
+Organise the code cleanly into reusable components.
+
+
+Do not introduce unnecessary backend services, databases, authentication or payment gateways. This is a simple WhatsApp-based sales funnel.
+
+
+10. PHOTO ASSET MAPPING
+
+
+Use the six uploaded photographs exactly as follows:
+
+
+Filename| Website location
+wig-hero.png| Main hero
+wig-product.png| Product solution and Thank-you page
+wig-texture.png| Hair texture section
+wig-styling.png| Styling section
+wig-package.png| What's included
+wig-lifestyle.png| Lifestyle and target audience section
+
+
+Use the actual uploaded files. Do not replace them with random stock images or generated placeholders.
+
+
+Ensure all photographs render correctly on mobile and desktop.
+
+
+11. FINAL QUALITY CONTROL
+
+
+Before declaring the project complete:
+
+
+1. Check the complete Sales page from top to bottom.
+2. Check the Thank-you page.
+3. Verify every WhatsApp button.
+4. Verify the exact phone number.
+5. Verify the pre-filled message.
+6. Verify the price is consistently ₦45,000.
+7. Verify the free wig cap is clearly mentioned.
+8. Check every image and its positioning.
+9. Ensure the photographs are not accidentally cropped.
+10. Check the FAQ accordion.
+11. Test page navigation.
+12. Test responsive behaviour on small phones, larger phones, tablets and desktop screens.
+13. Check that there are no invented reviews or unsupported business claims.
+14. Ensure the website looks premium rather than like a generic template.
+
+
+Do not remove sections or simplify the design without a genuine technical reason.
+
+
+Deliver a complete, polished and functional two-page sales funnel.
+
+
+Test every button on a phone view and a computer view before finishing.
